@@ -76,6 +76,12 @@ Includes attributes like Restaurant Name, Location, Rating, Average Cost for Two
 🛠️ Tools & Technologies
 
 Category	Tools Used
+
+
 Data Cleaning	Python (Pandas, NumPy)
+
+
 Visualization	Power BI / Tableau / Streamlit
+
+
 Database (Optional)	SQL / SQLite
