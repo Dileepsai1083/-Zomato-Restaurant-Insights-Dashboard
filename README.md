@@ -22,40 +22,18 @@ bash
 Copy
 Edit
 ├── data/               # Raw and cleaned datasets
+
+
 ├── notebooks/          # Data cleaning and EDA notebooks
-├── dashboard/          # Dashboard files (Power BI, Tableau, or Streamlit app)
+
+
+├── dashboard/          # Dashboard files (Power BI)
+
+
 ├── images/             # Screenshots of dashboards
-├── README.md           # Project documentation
-└── requirements.txt    # Python dependencies (if applicable)
-⚙️ How to Use
-Clone the repository:
 
-bash
-Copy
-Edit
-git clone https://github.com/your-username/zomato-dashboard.git
-cd zomato-dashboard
-(Optional) Create a virtual environment and install dependencies:
 
-bash
-Copy
-Edit
-python -m venv venv
-source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-pip install -r requirements.txt
-Open the dashboard file:
 
-For Power BI: Open .pbix file in Power BI Desktop
-
-For Tableau: Open .twbx file in Tableau
-
-For Streamlit: Run the app with
-
-bash
-Copy
-Edit
-streamlit run dashboard/app.py
-Explore the insights!
 
 ✨ Features
 Restaurant Ratings Analysis: Distribution of ratings across cities and cuisines.
@@ -71,7 +49,11 @@ Interactive Filtering: Filter by city, cuisine, or price range.
 📦 Dataset
 Sourced from the Zomato API / Kaggle datasets.
 
+
+
 Includes attributes like Restaurant Name, Location, Rating, Average Cost for Two, Cuisine, and more.
+
+
 
 🛠️ Tools & Technologies
 
