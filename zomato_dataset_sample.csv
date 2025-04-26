@@ -1,0 +1,51 @@
+Restaurant_ID,Restaurant_Name,Location,City,Cuisines,Average_Cost,Currency,Has_Online_Delivery,Has_Table_Booking,Rating,Votes
+1,BBQ Nation 45,Jayanagar,Chennai,"BBQ, Cafe",1063,INR,No,No,3.7,1330
+2,Pizza Hut 22,Indiranagar,Gurgaon,"Italian, BBQ",221,INR,Yes,Yes,3.8,918
+3,Domino's Pizza 86,Powai,Hyderabad,"Chinese, South Indian",1444,INR,Yes,No,4.4,1090
+4,Barbeque Nation 21,Salt Lake,Mumbai,Chinese,1494,INR,No,Yes,3.9,570
+5,Pizza Hut 76,Koramangala,Bangalore,"Fast Food, Chinese, BBQ",1073,INR,Yes,No,3.1,545
+6,KFC 78,Indiranagar,Pune,"North Indian, BBQ",350,INR,No,No,4.3,1859
+7,Domino's Pizza 77,Sector 18,Kolkata,"Continental, South Indian",1421,INR,Yes,Yes,4.3,1987
+8,Barbeque Nation 75,Indiranagar,Mumbai,Italian,215,INR,No,No,4.1,1127
+9,Mainland China 33,Salt Lake,Delhi,Chinese,803,INR,Yes,No,3.3,1606
+10,The Coffee Club 86,Koramangala,Gurgaon,"Burger, Fast Food, Pizza",1397,INR,No,Yes,3.6,1745
+11,BBQ Nation 25,Indiranagar,Ahmedabad,"Cafe, Chinese",676,INR,No,No,4.2,355
+12,The Coffee Club 99,Koramangala,Gurgaon,"Burger, South Indian, Cafe",1447,INR,No,No,4.7,758
+13,Domino's Pizza 42,Powai,Kolkata,"BBQ, North Indian, Italian",586,INR,Yes,No,3.8,1025
+14,Mainland China 75,MG Road,Bangalore,"Italian, Chinese",842,INR,Yes,Yes,4.2,1735
+15,Mainland China 18,MG Road,Mumbai,"Cafe, BBQ, South Indian",419,INR,No,No,3.1,1013
+16,Truffles 37,Powai,Noida,Continental,1027,INR,Yes,No,4.7,685
+17,Mainland China 33,Banjara Hills,Delhi,"Fast Food, Burger",871,INR,No,Yes,3.8,667
+18,The Coffee Club 71,Jayanagar,Mumbai,BBQ,1146,INR,No,No,3.7,499
+19,Domino's Pizza 82,Connaught Place,Ahmedabad,"Burger, Pizza, Fast Food",1401,INR,No,Yes,3.1,685
+20,Subway 3,Koramangala,Gurgaon,"Continental, Burger, Chinese",904,INR,No,Yes,3.0,1877
+21,Domino's Pizza 66,Banjara Hills,Kolkata,"BBQ, Continental, Chinese",910,INR,No,No,3.3,530
+22,Spice Garden 66,Indiranagar,Delhi,"South Indian, North Indian",566,INR,No,Yes,4.8,62
+23,KFC 83,Jayanagar,Gurgaon,South Indian,1327,INR,No,No,3.2,649
+24,Subway 17,Jayanagar,Ahmedabad,"North Indian, Cafe",631,INR,No,No,4.0,1943
+25,Truffles 27,Salt Lake,Bangalore,"Burger, BBQ",1233,INR,No,Yes,4.6,126
+26,Truffles 90,Jayanagar,Ahmedabad,"Continental, Italian, BBQ",594,INR,No,Yes,4.3,814
+27,Truffles 11,Connaught Place,Bangalore,South Indian,1412,INR,Yes,No,3.8,1931
+28,Barbeque Nation 24,Salt Lake,Chennai,Continental,403,INR,No,Yes,3.4,675
+29,Subway 17,Koramangala,Mumbai,"North Indian, Chinese",414,INR,No,Yes,4.1,1503
+30,Pizza Hut 91,Banjara Hills,Mumbai,"BBQ, Pizza",322,INR,Yes,No,4.0,1126
+31,Barbeque Nation 14,Gachibowli,Noida,"Burger, Fast Food",780,INR,Yes,Yes,4.9,1653
+32,KFC 23,Powai,Ahmedabad,"Italian, Cafe",933,INR,No,No,3.6,1146
+33,Domino's Pizza 27,Gachibowli,Chennai,"Chinese, Cafe, South Indian",202,INR,No,Yes,4.9,182
+34,Barbeque Nation 1,Banjara Hills,Gurgaon,"Fast Food, Pizza, Continental",766,INR,Yes,Yes,4.1,322
+35,Mainland China 14,Banjara Hills,Hyderabad,"BBQ, Burger, North Indian",1124,INR,No,Yes,5.0,1177
+36,Mainland China 4,Gachibowli,Chennai,"Cafe, Burger, South Indian",891,INR,Yes,No,5.0,835
+37,BBQ Nation 39,Jayanagar,Hyderabad,"Burger, Continental, Italian",1345,INR,No,Yes,3.3,818
+38,Mainland China 65,Indiranagar,Ahmedabad,"Continental, Italian, South Indian",734,INR,Yes,Yes,3.6,801
+39,Mainland China 71,Koramangala,Chennai,"BBQ, Burger",1031,INR,No,No,5.0,1591
+40,Domino's Pizza 14,Indiranagar,Noida,Continental,1225,INR,Yes,Yes,3.9,1465
+41,Spice Garden 76,Gachibowli,Ahmedabad,"Cafe, Italian, North Indian",337,INR,No,Yes,4.6,1943
+42,Spice Garden 71,Indiranagar,Pune,"Chinese, BBQ, Fast Food",1369,INR,No,Yes,4.5,1167
+43,Spice Garden 71,Indiranagar,Gurgaon,North Indian,1377,INR,No,Yes,4.4,177
+44,Pizza Hut 34,Jayanagar,Gurgaon,North Indian,454,INR,Yes,No,3.0,1659
+45,Spice Garden 68,Indiranagar,Chennai,"Cafe, Italian, Chinese",1392,INR,No,No,4.7,366
+46,Spice Garden 46,Gachibowli,Delhi,Burger,274,INR,Yes,No,3.6,970
+47,Truffles 65,Powai,Bangalore,Burger,516,INR,Yes,Yes,3.6,278
+48,Subway 51,Koramangala,Hyderabad,"Cafe, North Indian",1368,INR,Yes,No,4.2,1144
+49,KFC 34,Indiranagar,Hyderabad,Fast Food,748,INR,No,Yes,4.1,1861
+50,The Coffee Club 20,Connaught Place,Bangalore,"Burger, Continental, Italian",927,INR,Yes,Yes,3.2,574
