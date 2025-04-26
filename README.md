@@ -13,14 +13,14 @@ Built using:
 
 Python (Pandas, NumPy)
 
-Power BI / Tableau / Streamlit (depending on your tech stack — edit accordingly)
+Power BI 
 
-SQL (for data cleaning and preparation)
+
 
 📁 Project Structure
-bash
-Copy
-Edit
+
+
+
 ├── data/               # Raw and cleaned datasets
 
 
